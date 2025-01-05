@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @omrilokmen
-- 👀 I’m interested in software development
+- 👀 I’m interested in everything in IT
 - 🌱 I’m currently learning web development (MERN stack)
 - 📫 I am reachable on Linkedin (Lokmen Omri) or via email at omri.lokmen1@gmail.com
 - 😄 Pronouns: He / Him
