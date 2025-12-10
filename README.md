@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lokmen</h1>
-<h3 align="center">A passionate full stack web developer from :flag_tn: </h3>
+<h3 align="center">A passionate full stack web developer from <img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/4d8d35d5-297d-4957-9651-e9a663c60053" />
+ </h3>
 
 - 🌱 I’m currently learning **MERN stack**
 
