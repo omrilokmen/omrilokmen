@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">👋 Hi, I'm Lokmen</h1>
-<h3 align="center">Full-Stack Web Developer | MERN Stack | Tunisia <img src="https://flagcdn.com/w40/tn.png" width="25" alt="Tunisia Flag" />
+<h3 align="center">Self-taught Full-Stack Web Developer | MERN Stack | Tunisia <img src="https://flagcdn.com/w40/tn.png" width="25" alt="Tunisia Flag" />
 </h3>
 
 ---
