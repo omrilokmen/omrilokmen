@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me
-I am a passionate IT Specialist and self-taught Full-Stack developer from Tunisia, specialized in MERN development. I enjoy solving IT issues, building applications that have great impact, and delivering modern user-focused solutions.
+I am a passionate IT Specialist and self-taught Full-Stack developer from Tunisia, specialized in MERN development. I enjoy solving IT issues, building applications that have a great impact, and delivering modern user-focused solutions.
 
 ---
 
